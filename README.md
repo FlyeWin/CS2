@@ -1,2 +1,5 @@
 # CS2
-Software CS2 Download. https://flye.win
+
+Simple software for CS2.
+
+Download: https://flye.win
